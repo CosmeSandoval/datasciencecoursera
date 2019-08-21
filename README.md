@@ -1,2 +1,2 @@
 # datasciencecoursera
-For Coursera's Data Science Specialization (Offered by John Hopkins University)
+For Coursera's Data Science Specialization class (Offered by John Hopkins University)
